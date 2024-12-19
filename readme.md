@@ -40,7 +40,7 @@ SERVER VE WEBSİTE KLASÖRLERİNİ AYRI DİZİNLERE ALMAYI UNUTMAYINIZ !!
 1. Proje dosyalarını indirin veya klonlayın:
 
    ```bash
-   git clone https://github.com/burhanmorningstar/textToMP3.git
+   git clone https://github.com/Poeron/BBC-news-to-mp3.git
    cd textToMP3
    cd server
    ```
